@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello World Wide Weebs!
+
+Logan here, I like anime.
